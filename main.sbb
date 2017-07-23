@@ -1,0 +1,421 @@
+\begin{thebibliography}{10}
+\par\addpenalty{-5000}\relax
+\item[]\SBtitle
+{Chapter 1: Introduction}
+\relax
+\par\addpenalty{5000}\relax
+\bibitem
+[]
+{UnitedNations2014}
+ Department of~Economical United~Nations and Social Affairs. \newblock World urbanization prospects: The 2014 revision, highlights, 2014. \newblock {ISBN:} 978-92-1-151517-6. Available at \url {http://esa.un.org/unpd/wup/Highlights/WUP2014-Highlights.pdf}. 
+
+
+\bibitem
+[]
+{SAEj3016}
+ Society of~Automotive Engineers~(SAE). \newblock Taxonomy and definitions for terms related to on-road motor vehicle automated driving systems, 2014. \newblock Available at \url {http://standards.sae.org/j3016_201401/}. Summary available at \url {https://www.sae.org/misc/pdfs/automated_driving.pdf}. 
+
+
+\bibitem
+[]
+{carFree}
+ Leanna Garfield~(Business Insider). \newblock 12 major cities that are starting to go car-free, 2017. \newblock Available at \url {http://www.businessinsider.com/cities-going-car-free-2017-2}. 
+
+
+\bibitem
+[]
+{cp}
+ Changing~Places group projects. \newblock \url {http://cp.media.mit.edu/}. 
+
+
+\bibitem
+[]
+{ml}
+ About the MIT Media~Lab. \newblock \url {https://www.media.mit.edu/about/mission-history/}. 
+
+
+\bibitem
+[]
+{kll}
+ Changing Places group principal~investigator Kent~Larson. \newblock \url {https://www.media.mit.edu/people/kll/overview/}. 
+
+
+\bibitem
+[]
+{pev}
+ PEV information. \newblock \url {http://cp.media.mit.edu/pev/}. 
+
+
+\bibitem
+[]
+{Amazon}
+ Amazon.com product example. \newblock \url {https://www.amazon.com/Schwinn-Meridian-Adult-26-Inch-3-Wheel/dp/B01I92S3F4}. 
+
+
+\bibitem
+[]
+{perl}
+ Andrea Esuli. \newblock Perl scripts for amazon reviews downloader and parser. \newblock \url {https://github.com/aesuli/Amazon-downloader}. 
+
+
+\bibitem
+[]
+{mcauley2015}
+ Julian~John McAuley. \newblock Cse 190 data mining and predictive analytics. lecture 13, sliden63. \newblock In {\em Proceedings of the 22nd international conference on World Wide Web}. UCSD, 2015. \newblock Available at \url {http://cseweb.ucsd.edu/~jmcauley/cse190/slides/week8/lecture13.pdf}. 
+
+
+\bibitem
+[]
+{rake}
+ Stuart Rose, Dave Engel, Nick Cramer, and Wendy Cowley. \newblock {\em Automatic Keyword Extraction from Individual Documents}. \newblock John Wiley & Sons, Ltd, 2010. \newblock Available at \url {http://dx.doi.org/10.1002/9780470689646.ch1}. 
+
+
+\bibitem
+[]
+{bhatt2015amazon}
+ Aashutosh Bhatt, Ankit Patel, Harsh Chheda, and Kiran Gawande. \newblock Amazon review classification and sentiment analysis. \newblock {\em International Journal of Computer Science and Information Technologies}, 6(6):5107--5110, 2015. \newblock Available at \url {http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.736.4819&rep=rep1&type=pdf}. 
+
+
+\bibitem
+[]
+{chakankarsentiment}
+ Abhijit Chakankar, Sanjukta~Pal Mathur, and Krishna Venuturimilli. \newblock Sentiment analysis of users’ reviews and comments. \newblock Available at \url {https://pdfs.semanticscholar.org/ab8f/62c23b116ab51224e743f4c45871f8bbe995.pdf}. 
+
+
+\bibitem
+[]
+{Mukherjee2012}
+ Subhabrata Mukherjee and Pushpak Bhattacharyya. \newblock {\em Feature Specific Sentiment Analysis for Product Reviews}, pages 475--487. \newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2012. \newblock Available at \url {http://dx.doi.org/10.1007/978-3-642-28604-9_39}. 
+
+
+\bibitem
+[]
+{rain2013sentiment}
+ Callen Rain. \newblock Sentiment analysis in amazon reviews using probabilistic machine learning. \newblock {\em Swarthmore College}, 2013. \newblock Available at \url {https://pdfs.semanticscholar.org/f0af/e9ea9d286248336ee9dc4e954aecde3475bb.pdf}. 
+
+
+\bibitem
+[]
+{nurse2015tilting}
+ Stephen Nurse, Mark Richardson, and Robbie Napper. \newblock Tilting human powered trikes: Principles, designs and new developments. \newblock In {\em Australasian Transport Research Forum (ATRF), 37th, 2015, Sydney, New South Wales, Australia}, 2015. \newblock Available at \url {http://atrf.info/papers/2015/index.aspx}. 
+
+
+\bibitem
+[]
+{Saeedi}
+ Saeedi, Kazemi, and AWT TAG. \newblock Stability of three-wheeled vehicles with and without control system. \newblock {\em International Journal of Automotive Engineering}, 3, 2013. \newblock Available at \url {http://www.iust.ac.ir/ijae/article-1-180-en.html}. 
+
+
+\bibitem
+[]
+{festini2011urban}
+ Andrea Festini, Andrea Tonoli, and Enrico Zenerino. \newblock {\em Urban and extra urban vehicles: re-thinking the vehicle design}. \newblock INTECH Open Access Publisher, 2011. \newblock Available at \url {https://www.intechopen.com/books/howtoreference/new-trends-and-developments-in-automotive-system-engineering/urban-and-extra-urban-vehicles-re-thinking-the-vehicle-design}. 
+
+
+\par\addpenalty{-5000}\relax
+\item[]\SBtitle
+{Chapter 2: Background}
+\relax
+\par\addpenalty{5000}\relax
+\bibitem
+[]
+{tango}
+ Commuter Cars. \newblock Tango - lowest center of gravity of any car. \newblock \url {http://www.commutercars.com/}. 
+
+
+\bibitem
+[]
+{twizy}
+ Renault. \newblock Twizy - compact electric vehicle. \newblock \url {https://www.renault.co.uk/vehicles/new-vehicles/twizy.html}. 
+
+
+\bibitem
+[]
+{leanmachine}
+ General Motors. \newblock Lean machine. \newblock \url {http://www.carstyling.ru/en/car/1982_gm_lean_machine/}. 
+
+
+\bibitem
+[]
+{f300}
+ Mercedes Benz. \newblock Life jet f300. \newblock \url {http://www.evo.co.uk/mercedes/18241/concept-cars-the-mercedes-benz-f300-life-jet}. 
+
+
+\bibitem
+[]
+{clever}
+ University of~Bath and BMW. \newblock Clever. \newblock \url {http://www.bmwblog.com/2009/10/09/bmw-unveils-clever-concept/}. 
+
+
+\bibitem
+[]
+{ClassAvec04}
+ Vehicle Class, C.~R. Van~Den Brink, and H.~M. Kroonen. \newblock {\em AVEC {'}04 DVC - The banking technology driving the CARVER}, 2004. \newblock Available at \url {http://www.carver-technology.com/PDF/brink_AVEC_2004.pdf}. 
+
+
+\bibitem
+[]
+{piaggio}
+ Piaggio. \newblock Mp3 hybrid 300ie. \newblock \url {http://www.piaggio.com/mp3/en_EN/models/hybrid/hybrid-300IE/}. 
+
+
+\bibitem
+[]
+{veleon}
+ Adomeit~Group GmbH. \newblock Veleon. \newblock \url {http://www.veleon.de/eng/veleon.htm##vielfalt}. 
+
+
+\bibitem
+[]
+{trego}
+ Trego. \newblock \url {http://trego-trolley.com/}. 
+
+
+\bibitem
+[]
+{kaylad}
+ Dimitris-Niavis. \newblock Kaylad-e. \newblock \url {http://newatlas.com/kaylad-2-electric-tricycle/23049/}. 
+
+
+\bibitem
+[]
+{carqon}
+ Protanium. \newblock Carqon. \newblock \url {http://www.carqon.com/}. 
+
+
+\bibitem
+[]
+{doi:10.1080/00423119708969321}
+ Sang-Gyun So and Dean Karnoop. \newblock Active dual mode tilt control for narrow ground vehicles. \newblock {\em Vehicle System Dynamics}, 27(1):19--36, 1997. \newblock Available at \url {http://dx.doi.org/10.1080/00423119708969321}. 
+
+
+\bibitem
+[]
+{hibbard1996twenty}
+ Robin Hibbard and Dean Karnopp. \newblock Twenty first century transportation system solutions-a new type of small, relatively tall and narrow active tilting commuter vehicle. \newblock {\em Vehicle system dynamics}, 25(5):321--347, 1996. \newblock Available at \url {http://dx.doi.org/10.1080/00423119608968970}. 
+
+
+\bibitem
+[]
+{doi:10.1504/IJVD.1997.062071}
+ Sang-Gyun So and Dean Karnopp. \newblock Switching strategies for narrow ground vehicles with dual mode automatic tilt control. \newblock {\em International Journal of Vehicle Design}, 18(5):518--532, 1997. \newblock Url:\url {http://www.inderscienceonline.com/doi/abs/10.1504/IJVD.1997.062071}. 
+
+
+\bibitem
+[]
+{bath24682}
+ Johan J~H Berote. \newblock Dynamics and control of a tilting three wheeled vehicle. \newblock Available at \url {http://opus.bath.ac.uk/24680/}, 2010. 
+
+
+\bibitem
+[]
+{bath15090}
+ Johan Berote, Auguste~Van Poelgeest, Jocelyn Darling, Kevin~A Edge, and Andrew Plummer. \newblock The dynamics of a three-wheeled narrow-track tilting vehicle. \newblock In {\em FISITA World Automotive Congress 2008}, September 2008. \newblock Paper number: F2008-SC-032. Available at \url {http://opus.bath.ac.uk/15090/}. 
+
+
+\bibitem
+[]
+{doi:10.1076/mcmd.9.2.209.16521}
+ R.~Rajamani, J.~Gohl, L.~Alexander, and P.~Starr. \newblock Dynamics of narrow tilting vehicles. \newblock {\em Mathematical and Computer Modelling of Dynamical Systems}, 9(2):209--231, 2003. \newblock Available at \url {http://www.tandfonline.com/doi/abs/10.1076/mcmd.9.2.209.16521}. 
+
+
+\bibitem
+[]
+{piyabongkarn2004active}
+ D~Piyabongkarn, T~Keviczky, and R~Rajamani. \newblock Active direct tilt control for stability enhancement of a narrow commuter vehicle. \newblock {\em International Journal of Automotive Technology}, 5(2):77--88, 2004. \newblock Available at \url {https://pdfs.semanticscholar.org/b079/59e2ab35f552f1b06209af731e148e32a0ec.pdf}. 
+
+
+\bibitem
+[]
+{5356230}
+ S.~Kidane, R.~Rajamani, L.~Alexander, P.~J. Starr, and M.~Donath. \newblock Development and experimental evaluation of a tilt stability control system for narrow commuter vehicles. \newblock {\em IEEE Transactions on Control Systems Technology}, 18(6):1266--1279, Nov 2010. \newblock Available at \url {http://ieeexplore.ieee.org/document/5356230/}. 
+
+
+\bibitem
+[]
+{doi:10.1080/00423110701352987}
+ S.~Kidane, L.~Alexander, R.~Rajamani, P.~Starr, and M.~Donath. \newblock A fundamental investigation of tilt control systems for narrow commuter vehicles. \newblock {\em Vehicle System Dynamics}, 46(4):295--322, 2008. \newblock Available at \url {http://www.tandfonline.com/doi/abs/10.1080/00423110701352987}. 
+
+
+\par\addpenalty{-5000}\relax
+\item[]\SBtitle
+{Chapter 3: Control Strategy}
+\relax
+\par\addpenalty{5000}\relax
+\bibitem
+[]
+{mourad:tel-00787310}
+ Lama Mourad. \newblock {\em {Active lateral acceleration control of a narrow tilting vehicle}}. \newblock Theses, {Ecole des Mines de Nantes}, December 2012. \newblock Available at \url {https://tel.archives-ouvertes.fr/tel-00787310/file/Mourad_L_12_2012.pdf}. 
+
+
+\bibitem
+[]
+{hibbard1996twenty}
+ Robin Hibbard and Dean Karnopp. \newblock Twenty first century transportation system solutions-a new type of small, relatively tall and narrow active tilting commuter vehicle. \newblock {\em Vehicle system dynamics}, 25(5):321--347, 1996. \newblock Available at \url {http://dx.doi.org/10.1080/00423119608968970}. 
+
+
+\bibitem
+[]
+{doi:10.1080/00423119708969321}
+ Sang-Gyun So and Dean Karnoop. \newblock Active dual mode tilt control for narrow ground vehicles. \newblock {\em Vehicle System Dynamics}, 27(1):19--36, 1997. \newblock Available at \url {http://dx.doi.org/10.1080/00423119708969321}. 
+
+
+\bibitem
+[]
+{doi:10.1504/IJVD.1997.062071}
+ Sang-Gyun So and Dean Karnopp. \newblock Switching strategies for narrow ground vehicles with dual mode automatic tilt control. \newblock {\em International Journal of Vehicle Design}, 18(5):518--532, 1997. \newblock Url:\url {http://www.inderscienceonline.com/doi/abs/10.1504/IJVD.1997.062071}. 
+
+
+\bibitem
+[]
+{piyabongkarn2004active}
+ D~Piyabongkarn, T~Keviczky, and R~Rajamani. \newblock Active direct tilt control for stability enhancement of a narrow commuter vehicle. \newblock {\em International Journal of Automotive Technology}, 5(2):77--88, 2004. \newblock Available at \url {https://pdfs.semanticscholar.org/b079/59e2ab35f552f1b06209af731e148e32a0ec.pdf}. 
+
+
+\bibitem
+[]
+{doi:10.1080/00423110701352987}
+ S.~Kidane, L.~Alexander, R.~Rajamani, P.~Starr, and M.~Donath. \newblock A fundamental investigation of tilt control systems for narrow commuter vehicles. \newblock {\em Vehicle System Dynamics}, 46(4):295--322, 2008. \newblock Available at \url {http://www.tandfonline.com/doi/abs/10.1080/00423110701352987}. 
+
+
+\bibitem
+[]
+{5356230}
+ S.~Kidane, R.~Rajamani, L.~Alexander, P.~J. Starr, and M.~Donath. \newblock Development and experimental evaluation of a tilt stability control system for narrow commuter vehicles. \newblock {\em IEEE Transactions on Control Systems Technology}, 18(6):1266--1279, Nov 2010. \newblock Available at \url {http://ieeexplore.ieee.org/document/5356230/}. 
+
+
+\bibitem
+[]
+{van1999realization}
+ CR~van~den Brink. \newblock Realization of high performance man wide vehicles (mwvs) with an automatic active tilting mechanism. \newblock In {\em Proceedings EAEC European Automotive Congress "Vehicle Systems Technology for the Next Century: Conference II--Vehicle Dynamics and Active Safety", Barcelona}, pages 41--49, 1999. \newblock Available at \url { http://carver-technology.com/PDF/brink_EAEC_Barcelona_1999.pdf}. 
+
+
+\bibitem
+[]
+{van1997dynamic}
+ CR~van~den Brink and HM~Kroonen. \newblock Dynamic vehicle control for enclosed narrow vehicles. \newblock In {\em Volume I EAEC 6th European Congress "Lightweight and small cars: The answer to Future Needs"}, pages 217--226, 1997. \newblock Available at \url {http://www.carver-technology.nl/PDF/brink_EAEC_Cernobbio_1997.pdf}. 
+
+
+\bibitem
+[]
+{bath15090}
+ Johan Berote, Auguste~Van Poelgeest, Jocelyn Darling, Kevin~A Edge, and Andrew Plummer. \newblock The dynamics of a three-wheeled narrow-track tilting vehicle. \newblock In {\em FISITA World Automotive Congress 2008}, September 2008. \newblock Paper number: F2008-SC-032. Available at \url {http://opus.bath.ac.uk/15090/}. 
+
+
+\bibitem
+[]
+{6315042}
+ L.~Mourad, F.~Claveau, and P.~Chevrel. \newblock Design of a two dof gain scheduled frequency shaped lq controller for narrow tilting vehicles. \newblock In {\em 2012 American Control Conference (ACC)}, pages 6739--6744, June 2012. \newblock Available at \url {http://ieeexplore.ieee.org/abstract/document/6315042/}. 
+
+
+\bibitem
+[]
+{Zhou:1996:ROC:225507}
+ Kemin Zhou, John~C. Doyle, and Keith Glover. \newblock {\em Robust and Optimal Control}. \newblock Prentice-Hall, Inc., Upper Saddle River, NJ, USA, 1996. \newblock {ISBN:}0-13-456567-3. 
+
+
+\bibitem
+[]
+{kCraig}
+ Rensselaer Polytechnic~Institute Dr. Kevin~Craig, Professor of Mechanical~Engineering. \newblock {\em Disturbance Response Notes}. \newblock Available at \url {http://studylib.net/doc/18342577/disturbance-response}. 
+
+
+\bibitem
+[]
+{lec5}
+ University of~Stuttgart Prof. Dr. Carsten~Scherer. \newblock {\em LQ Optimal Control}, 2013. \newblock Available at \url {http://www.mathematik.uni-stuttgart.de/studium/infomat/mst/linearekontrolltheorie/folien/lec5.pdf}. 
+
+
+\bibitem
+[]
+{rob3}
+ \r {A}bo Akademi~University Professor Hannu T.~Toivonen, Department of Information~Technologies. \newblock {\em The H2-optimal control problem}, 2000. \newblock Available at \url {http://users.abo.fi/htoivone/courses/robust/rob3.pdf}. 
+
+
+\bibitem
+[]
+{Wonham:1614618}
+ W~Murray Wonham. \newblock {\em {Linear multivariable control a geometric approach; 2nd ed.}} \newblock Applications of Mathematics. Springer, New York, 1979. \newblock Available at \url {http://cds.cern.ch/record/1614618}. 
+
+
+\bibitem
+[]
+{control-system-design}
+ Bernard Friedland. \newblock {\em Control System Design - An Introduction to State-Space Methods}. \newblock Dover Publications, 1986. \newblock Chapter 9. Linear, Quadratic Optimum Control. Available at \url {http://app.knovel.com/hotlink/toc/id:kpCSDAISS1/control-system-design/control-system-design} {ISBN:} 978-0-486-44278-5. 
+
+
+\par\addpenalty{-5000}\relax
+\item[]\SBtitle
+{Chapter 4: Small Scale Prototype}
+\relax
+\par\addpenalty{5000}\relax
+\bibitem
+[]
+{deploydie}
+ Media Lab~Director's new motto. \newblock Available at \url {https://slice.mit.edu/2014/07/29/deploy-or-die-media-lab-directors-new-motto/}. 
+
+
+\bibitem
+[]
+{miniPEV}
+ miniPEV video. \newblock Available at \url {https://vimeo.com/188999255}. 
+
+
+\par\addpenalty{-5000}\relax
+\item[]\SBtitle
+{Chapter 5: Real Scale Prototype}
+\relax
+\par\addpenalty{5000}\relax
+\bibitem
+[]
+{iturriagagoitia2014teoria}
+ Alejo~Avello Iturriagagoitia. \newblock {\em Teor{\'\i }a de m{\'a}quinas Segunda Edici{\'o}n}. \newblock Escuela Superior de Ingenieros Industriales - Universidad de Navarra, 2014. \newblock Available at \url {http://hdl.handle.net/10171/34797}. 
+
+
+\bibitem
+[]
+{gear}
+ Solidworks~Gear Generator. \newblock Available at \url {https://www.thingiverse.com/thing:8077}. 
+
+
+\bibitem
+[]
+{ergonomics}
+ Ergotec. \newblock {\em The Guide to Cycling Ergonomics}. \newblock Wilhelm Humpert GmbH & Co., 2012. \newblock Available at \url {http://www.hr.ubc.ca/ergonomics/files/Bike-Ergonomics-reduced-size.pdf}. 
+
+
+\bibitem
+[]
+{ebikeling}
+ DC~motor in rear~wheel hub. \newblock Available at \url {http://www.ebikeling.com/shop/electric-bicycle-36v-500w-geared-rear-26-kit-option-1}. 
+
+
+\bibitem
+[]
+{rotary}
+ Rotary Motion Position-Measuring Transmitter. \newblock Available at \url {https://www.mcmaster.com/##16695t57/=17znmw6}. 
+
+
+\par\addpenalty{-5000}\relax
+\item[]\SBtitle
+{Chapter 6: Vehicle and Control Tests}
+\relax
+\par\addpenalty{5000}\relax
+\bibitem
+[]
+{windes2013experimental}
+ Peter Windes, Mark Archibald, and Bryan Joseph. \newblock Experimental determination of bike tire stiffnesses. \newblock Proceedings of the 2013 ASEE North-Central Section Conference, 2013. \newblock Available at \url {http://people.cst.cmich.edu/yelam1k/asee/proceedings/2013/papers/97.pdf}. 
+
+
+\par\addpenalty{-5000}\relax
+\item[]\SBtitle
+{Chapter 7: Project Cost \& Overview}
+\relax
+\par\addpenalty{5000}\relax
+\bibitem
+[]
+{ulrich2004product}
+ K.T. Ulrich and S.D. Eppinger. \newblock {\em Product Design and Development}. \newblock McGraw-Hill/Irwin series in marketing. McGraw-Hill/Irwin, 2004. \newblock Available at \url {https://books.google.co.uz/books?id=Qju5AAAAIAAJ}. 
+
+
+\end{thebibliography}

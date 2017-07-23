@@ -1,0 +1,6 @@
+Ultimaker 2+ 3D printer \url{https://ultimaker.com/en/products/ultimaker-2-plus}
+Stratasys Objet Eden260VS 3D printer \url{http://www.stratasys.com/3d-printers/design-series/objet-eden260vs}
+Sindoh DP200 3D printer \url{http://3dprinter.sindoh.com/es/ProductDP200}
+OMAX 2652 JetMachining Center \url{https://www.omax.com/omax-machine/2652}
+Baileigh Manual Roll Bender R-M10 \url{http://www.baileigh.com/manual-roll-bender-r-m10}
+GCC LaserPro Spirit GLS \url{http://www.gccworld.com/goods.php?act=view&no=20}

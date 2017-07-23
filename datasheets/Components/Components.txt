@@ -1,0 +1,11 @@
+Servo Motor SG90 \url{www.micropik.com/PDF/SG90Servo.pdf}
+Omron Rotary Encoder E6B2-C \url{https://www.ia.omron.com/products/family/487/}
+PowerSonic PS-1290 \url{http://www.power-sonic.com/images/powersonic/sla_batteries/ps_psg_series/12volt/PS1290.pdf}
+Pololu 50:1 Micro Metal Gearmotor \url{https://www.pololu.com/product/998}
+Miniature Shock Absorbers MA 35 to MA 900 \url{https://www.hydradynellc.com/images/document/19_Miniature%20Shock%20Absorbers%20MA%2035%20to%20MA%20900.pdf}
+HC-05 Bluetooth to Serial Port Module \url{https://www.itead.cc/wiki/Serial_Port_Bluetooth_Module_(Master/Slave)_:_HC-05}
+HC-06 Bluetooth to Serial Port Module \url{https://www.itead.cc/wiki/HC06_Serial_Bluetooth_Brick}
+HWT-1004-7AB Down Tube Pack for 36V e-Bike \url{https://www.evtaiwan.com.tw/en_US/product/info.html?id=C1D0F29F66F5713B87F01A910298F790&currentRow=19&totalCount=44&iv=N&doPath=1}
+NIDEC 48R Motor T-IT-N Characteristics \url{http://www.nidec-motor.com/}
+Energizer XP8000 \url{http://www.tomshardware.com/reviews/notebook-battery-external-power-supply,2821-9.html}
+Electric Bicycle 36V 500W Gearer Rear 26" KIT \url{http://www.ebikeling.com/shop/electric-bicycle-36v-500w-geared-rear-26-kit-option-1}

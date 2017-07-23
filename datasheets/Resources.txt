@@ -1,0 +1,20 @@
+%Hardware
+%Arduino Components
+%Metal Sheets
+%Bicycle Components
+%Electronic Components: Wires, Lights
+%
+%Motor Components
+%Battery Components
+%Motor Controllers
+%McMaster Components
+%GrabCad Components
+%Tubes
+
+%Software
+%Arduino Libraries
+%Processing Libraries
+%Matlab Packages
+%Python Packages
+%Fritzing
+%BLDC Tool
