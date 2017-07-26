@@ -10,7 +10,7 @@ Iñigo's master's latex thesis.
 -	**pages folder** contains each chapter's tex files
 
 **Compiled with**
--	Windows 10, Texmaker, MiKTeX 2.9
+-	Windows 10, Texmaker 4.5, MiKTeX 2.9
 -	LaTeX: latex -interaction=nonstopmode %.tex
 -	PdfLaTeX:  pdflatex -synctex=1 -interaction=nonstopmode -file-line-error %.tex
 -	Full compilation command: PdfLaTeX + Bib(la)tex + PdfLaTeX (x2) + ShowPDF
