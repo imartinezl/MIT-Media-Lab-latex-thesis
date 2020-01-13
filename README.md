@@ -1,7 +1,8 @@
 ﻿# Active Control for Lightweight Autonomous Vehicles - Master's Thesis
-Iñigo's master's latex thesis.
 
 **The final version is available [here](https://github.com/imartinezl/MIT-Media-Lab-latex-thesis/blob/master/main_backup.pdf).**
+
+**A less quality version without appendixes is available [here](https://github.com/imartinezl/MIT-Media-Lab-latex-thesis/blob/master/main_backup_no_appendix_compressed.pdf).**
 
 ## Important Indications
 -	**main.tex** contains the necessary packages, formating and document creation.
@@ -17,4 +18,6 @@ Iñigo's master's latex thesis.
 
 
 ## Acknowledgements
-It uses tiff's ([@scientiffic](https://twitter.com/scientiffic)) tufte-latex-mit LaTeX thesis format, available [here](https://github.com/ttseng/tufte-latex-mit).  It is based on [MIT's LaTeX thesis template](http://web.mit.edu/thesis/tex/) integrated with [Tufte-LaTeX] (https://tufte-latex.github.io/tufte-latex/).  Thanks @ttseng!
+It uses tiff's ([@scientiffic](https://twitter.com/scientiffic)) tufte-latex-mit LaTeX thesis format, available [here](https://github.com/ttseng/tufte-latex-mit).
+
+It is based on [MIT's LaTeX thesis template](http://web.mit.edu/thesis/tex/) integrated with [Tufte-LaTeX](https://tufte-latex.github.io/tufte-latex/).  Thanks @ttseng!
